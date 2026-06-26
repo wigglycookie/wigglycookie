@@ -1,4 +1,5 @@
-## Hi there 👋
+# Greetings 👀
+![Image of UIC School logo]()
 
 <!--
 **wigglycookie/wigglycookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
